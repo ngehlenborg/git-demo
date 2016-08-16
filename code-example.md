@@ -12,3 +12,7 @@ plot( x, y );
 
 # What will this look like?
 ```
+## Normal Distributions in R
+
+To sample data from a normal distribution, use the `rnorm()` function. For example, `rnorm(1000)` will sample 1000 values from a normal distribution with mean 0 and standard deviation 1.
+
