@@ -11,4 +11,7 @@ Stage the changes.
 Commit the changes.
 
 ## Step 4
+Add a file and repeat Steps 2 to 4.
+
+## Step 5
 Push the changes.
